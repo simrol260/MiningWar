@@ -9,18 +9,27 @@ Groupe:
 
 Yohan:
   PathFinding
+  
   ShipCaracterics
+  
   ShipShifting
+  
   Buy_order
+  
   Release_or_lock()
+  
   element_destroy()
 
 
 Martin:
   file_to_database
+  
   Order_parser
+  
   Attack_order
+  
   damage_applier
+  
   is_hit
   
 
