@@ -7,7 +7,7 @@ Répartition des fonctions:
 Groupe:
   Ai_decision_making
 
-Yohan:
+||Yohan:
   PathFinding
   
   ShipCaracterics
@@ -21,7 +21,7 @@ Yohan:
   element_destroy()
 
 
-Martin:
+||Martin:
   file_to_database
   
   Order_parser
@@ -34,11 +34,16 @@ Martin:
   
 
 
-Simon:
+||Simon:
   Board_display
+  
   Set_up_money
+  
   Is_legal_move
+  
   collect
+  
   drop_ore
+  
   get_element_type
  
